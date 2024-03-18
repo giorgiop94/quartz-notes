@@ -1,5 +1,7 @@
 ---
-title: your thoughts are not yours 
+
+title: your thoughts are not yours
+ 
 ---
 The basic idea is that every thought that we think had some causes and conditions that allowed it to arise. 
 

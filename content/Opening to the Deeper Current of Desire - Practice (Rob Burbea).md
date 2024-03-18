@@ -32,7 +32,7 @@ Rob talks about this in Opening the Dharma of Desire pt 1 of the retreat ([[Talk
 	- The sense of lack may gradually soothe
 	- But doing this keeps it at a feeling of lack
 - We may think that being with the lack is *being with what is*
-	- But thinking so fails to see  [[emptiness|dependent co-arising]]
+	- But thinking so fails to see  [[Emptiness|dependent co-arising]]
 		- The way of paying attention to it may keep building those emotions
 		- We don't see we are constructing our experience
 - This practice is not about *just accepting*

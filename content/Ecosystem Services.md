@@ -39,7 +39,7 @@ Services that the Earth's ecosystem provide to humans and to other forms of life
 	- Food, water, wood etc..
 2. Supporting Services
 	- Nutrient cycles, soil formation
-3. Regulating Services ([[Balancing Feedback Loops]] for [[Climate change]])
+3. Regulating Services ([[Balancing Feedback Loops]] for [[climate change]])
 	- Pest and disease control, carbon storage etc...
 	- Rainforests regulate carbon sinks and rainfalls
 	- Coral reefs regulate the ocean's ability to take up CO2 and its ability to circulate heat

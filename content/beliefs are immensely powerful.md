@@ -1,5 +1,7 @@
 ---
-title: beliefs are immensely powerful 
+
+title: beliefs are immensely powerful
+ 
 ---
 - To assume we don't hold assumptions and concepts is not only wrong but dangerous
 	- **Unconscious assumptions that we don't even know we hold are the most powerful** 

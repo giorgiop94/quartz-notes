@@ -489,7 +489,7 @@ Developing Emotional awareness and learning to work skillfully with emotions
 
 #### Seeing Divinity
 - In Vajrayana the ultimate is the awareness of everything being empty, and divine
-	- Everything rests on the view of [[emptiness]] (even divinity)
+	- Everything rests on the view of [[Emptiness]] (even divinity)
 	- Through that, everything (self, other, world) becomes much more malleable, and can be seen as divine
 
 - Seeing what was once seen as shameful, as divine

@@ -1,5 +1,7 @@
 ---
-title: Biodiversity metrics 
+
+title: Biodiversity metrics
+ 
 ---
 4 types of biodiversity models
 - species distribution (where do species live?)

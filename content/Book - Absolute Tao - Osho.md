@@ -1,5 +1,7 @@
 ---
-title: Book - Absolute Tao - Osho 
+
+title: Book - Absolute Tao - Osho
+ 
 ---
 Absolute Tao is a book excerpted from some talks that Osho gave on Taoism. In it, Osho shares his personal interpretation of the ancient Chinese Philosophy.
 
