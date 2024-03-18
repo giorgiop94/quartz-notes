@@ -3,7 +3,7 @@ title: Home
 id: home
 ---
 
-# Welcome! 🌱
+### Welcome! 🌱
 
 This is my attempt to play and experiment with a digital garden.
 
