@@ -53,6 +53,7 @@ function sluggify(s: string): string {
     .map((segment) =>
       segment
         .replace(/\s/g, "-")
+        .replace(/-+/g, "-") // Remove extra dashes
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
